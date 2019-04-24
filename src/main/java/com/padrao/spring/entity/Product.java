@@ -35,7 +35,7 @@ public class Product {
 
 	public Product(String id, String username, double price) {
 		this.id = id;
-		this.name = name;
+		this.name = username;
 		this.price = price;
 	}
 	
